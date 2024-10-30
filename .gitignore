@@ -1,0 +1,7 @@
+#ignore these files
+.DS_Store
+.idea
+.htaccess
+.well-known/
+cgi-bin/
+acme-challenge/
